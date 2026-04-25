@@ -20,4 +20,3 @@ def empleados():
     conn.close()
 
     return [{"nombre":d[0],"departamento":d[1],"salario":d[2]} for d in datos]
-

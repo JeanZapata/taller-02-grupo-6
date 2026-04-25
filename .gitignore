@@ -1,4 +1,5 @@
-venv/
-__pycache__/
-base_datos/base.py
+api/base.py
 visualizacion/config.py
+entorno/
+__pycache__/
+*.pyc
